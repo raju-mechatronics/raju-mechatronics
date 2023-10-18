@@ -24,4 +24,4 @@
 
 🌍 Let's connect and build something amazing together!
 
-🌐 LinkedIn: https://www.linkedin.com/in/raju-ahmed-9a4770242/)https://www.linkedin.com/in/raju-ahmed-9a4770242/
+🌐 LinkedIn: https://www.linkedin.com/in/raju-ahmed-9a4770242/
