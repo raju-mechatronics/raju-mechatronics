@@ -1,20 +1,20 @@
 👋 Hello, I'm Raju Ahmed
 
-🚀 Software Developer | 🌐 Web Solutions Enthusiast
+🚀 Software Developer | Go | TypeScript | NodeJS
 
 📞 Contact: +8801778978781 | 📧 Email: rajuahmed1708@gmail.com | 🌍 Location: Dhaka, Bangladesh
 
 🌟 Passionate about building innovative web solutions and crafting dynamic web applications and APIs.
 
-🎯 Specialized in Full Stack Development, Chrome Extension Development, and Mobile/Desktop App Development.
+🎯 Specialized in Full Stack Development, Chrome Extension Development, and Backend Development.
 
-💻 Proficient in a range of programming languages, including Typescript, JavaScript, Python, and GO.
+💻 Proficient in a range of programming languages, including Typescript, JavaScript, Go 
 
 🔧 Experienced with popular frameworks like ExpressJS, ReactJS, and ElectronJS.
 
 🧰 Tools of the trade: Git, SQL/NoSQL databases, Docker, Bash, and Linux/WSL.
 
-🗣️ Fluent in Bengali and English.
+🗣️ Fluent in English.
 
 🎓 Graduated with a BSc in Mechatronic Engineering from Rajshahi University of Engineering & Technology in 2023.
 
