@@ -6,7 +6,7 @@
 
 🌟 Passionate about building innovative web solutions and crafting dynamic web applications and APIs.
 
-🎯 Specialized in Backend Development and also good at Fullstazk Development.
+🎯 Specialized in Backend Development and also good at Fullstack Development.
 
 💻 Proficient in a range of programming languages, including Typescript, JavaScript, Go, Java 
 
