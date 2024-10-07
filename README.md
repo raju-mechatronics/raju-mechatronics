@@ -16,7 +16,7 @@
 
 🗣️ Fluent in English.
 
-🎓 Graduated with a BSc in Mechatronic Engineering from Rajshahi University of Engineering & Technology in 2023.
+🎓 Graduated with a BSc in Mechatronic Engineering from Rajshahi University of Engineering & Technology in 2021.
 
 🌍 Let's connect and build something amazing together!
 
