@@ -1,23 +1,85 @@
-👋 Hello, I'm Raju Ahmed
+# 👋 Hello, I'm Raju Ahmed
 
-🚀 Software Developer | Go | TypeScript | NodeJS
+### 🚀 Software Engineer | Go • TypeScript • Python
 
-📞 Contact: +8801778978781 | 📧 Email: rajuahmed1708@gmail.com | 🌍 Location: Dhaka, Bangladesh
+Backend engineer passionate about building scalable distributed systems, high-performance APIs, and data-intensive applications.
 
-🌟 Passionate about building innovative web solutions and crafting dynamic web applications and APIs.
+📍 Dhaka, Bangladesh   📧 rajuahmed1708@gmail.com   📞 +8801778978781
 
-🎯 Specialized in Backend Development and also good at Fullstack Development.
+---
 
-💻 Proficient in a range of programming languages, including Typescript, JavaScript, Go, Java 
+## 🛠️ Tech Stack
 
-🔧 Experienced with popular frameworks like ExpressJS, ReactJS, and ElectronJS.
+### Languages
+- Go
+- TypeScript
+- Python
+- JavaScript
 
-🧰 Tools of the trade: Git, SQL/NoSQL databases, Docker, Bash, and Linux/WSL, CI/CD.
+### Backend
+- Gin
+- Echo
+- Node.js
+- NestJS
+- Express
+- gRPC
+- REST APIs
 
-🗣️ Fluent in English.
+### Databases & Storage
+- ClickHouse
+- PostgreSQL
+- MySQL
+- MongoDB
+- Redis
 
-🎓 Graduated with a BSc in Mechatronic Engineering from Rajshahi University of Engineering & Technology in 2021.
+### Distributed Systems
+- Kafka
+- RabbitMQ
+- Microservices
+- Event-Driven Architecture
 
-🌍 Let's connect and build something amazing together!
+### Cloud & DevOps
+- Docker
+- Kubernetes
+- AWS
+- Google Cloud Platform
+- GitHub Actions
 
-🌐 LinkedIn: https://www.linkedin.com/in/raju-ahmed-9a4770242/
+### Frontend
+- React
+- Next.js
+- HTMX
+- Tailwind CSS
+
+---
+
+## 🎯 Interests
+
+- Distributed Systems
+- Database Engineering
+- High-Performance Computing
+- Recommendation Systems
+- Analytics Platforms
+- Performance Optimization
+- Open Source Software
+
+---
+
+## 📚 Currently Exploring
+
+- ClickHouse internals
+- Database engineering
+- Distributed systems design
+- Go runtime & performance
+- Open source contributions
+
+## 🌟 Open Source
+
+Contributor to **Gin**, **Echo**, and **DefinitelyTyped**, with a passion for improving developer tools and backend ecosystems.
+
+---
+
+## 🎓 Education
+
+**B.Sc. in Mechatronic Engineering**  
+Rajshahi University of Engineering & Technology (RUET) — 2022
